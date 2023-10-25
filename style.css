@@ -53,3 +53,10 @@ font-weight: bold;
 width: 99px;
 border-radius: 8px;
 }
+
+.footer-text{
+    font-size: 10px;
+    color: white;
+    font-weight: 500;
+    margin-top: 3px;
+}
